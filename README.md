@@ -83,14 +83,6 @@ npm start
 yarn start
 ```
 
-## 🖼️ Screenshots
-
-![Login Page](https://your-image-link.com)
-*Screenshot of the secure login page*
-
-![Invoice Management](https://your-image-link.com)
-*Screenshot showcasing invoice management*
-
 ## 📂 Folder Structure
 
 ```plaintext
