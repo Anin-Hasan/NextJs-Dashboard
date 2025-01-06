@@ -108,7 +108,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions, feel free to reach out:
 - **Email:** 200921@ku.ac.bd
-- **LinkedIn:** [inkedIn Profile](https://www.linkedin.com/in/anin-hasan/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/anin-hasan/)
 
 ---
 
